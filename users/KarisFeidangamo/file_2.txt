@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Cooooooooooooollllllllllllllllll !!!
+=======
+Bon c'est partiiii !!!
+>>>>>>> lab2-karis
